@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       
      <RegistrationPage></RegistrationPage>
-     <hr></hr>
+     
      <Registration></Registration>
     </div>
   );

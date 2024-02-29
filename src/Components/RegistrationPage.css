@@ -34,11 +34,11 @@
 
  
   .container {
-    max-width: 400px; /* Set the maximum width of the container */
-    margin: 0 auto;   /* Center the container horizontally */
-    padding: 20px;     /* Add some padding to the container */
-    border: 1px solid #ccc; /* Add a border around the container */
-    border-radius: 8px;    /* Optional: Add border-radius for rounded corners */
+    max-width: 400px; 
+    margin: 0 auto;   
+    padding: 20px;     
+    border: 1px solid #ccc; 
+    border-radius: 8px;    
   }
   
   h1, p{

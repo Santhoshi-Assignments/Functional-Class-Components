@@ -1,5 +1,5 @@
 .App {
   display: flex;
-  justify-content: space-around; /* Adjust as needed */
-  align-items: flex-start; /* Adjust as needed */
+  justify-content: space-around; 
+  align-items: flex-start; 
 }
